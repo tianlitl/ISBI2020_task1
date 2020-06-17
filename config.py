@@ -6,7 +6,6 @@ CONFIG = {
     'DATA_PATH': './Data',
     'SAVE_PATH': './Results',
     'PRETRAINED_PATH': None,
-#    'PRETRAINED_PATH': '/home/sqtang/Documents/DR_2020challenge/Results/2020_02_14_16_04_24/best_kappa.pth',
     'LEARNING_RATE': 1e-4,
     'MILESTONES': [50, 100, 150, 200, 250],
     'GAMMA': 0.5,
